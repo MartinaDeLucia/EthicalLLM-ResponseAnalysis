@@ -1,8 +1,9 @@
 # EthicalLLM-ResponseAnalysis
 
 Materiali a supporto della tesi triennale sull’interazione tra modelli linguistici e contenuti sensibili: 
-**"Un’Analisi Empirica delle Capacità dei Large Language Model nella Gestione di Contenuti Sensibili"**
-IL seguente repository contiene dataset, risposte generate e script per l'interrogazione.
+**"Un’Analisi Empirica delle Capacità dei Large Language Model nella Gestione di Contenuti Sensibili"**.
+
+Il seguente repository contiene dataset, risposte generate e script per l'interrogazione.
 
 ---
 
