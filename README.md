@@ -3,7 +3,7 @@
 Materiali a supporto della tesi triennale sull’interazione tra modelli linguistici e contenuti sensibili: 
 **"Un’Analisi Empirica delle Capacità dei Large Language Model nella Gestione di Contenuti Sensibili"**.
 
-Il seguente repository contiene dataset, risposte generate e script per l'interrogazione.
+Il repository raccoglie i materiali sviluppati per l’esperimento descritto nella tesi, finalizzato ad analizzare la qualità comunicativa e la responsabilità etica con cui tre modelli linguistici open-source — Meta-LLaMA 3 8B Instruct, Qwen2 7B Instruct e DeepSeek 7B Chat — rispondono a prompt sensibili. Include il corpus di domande annotate, le risposte generate da ciascun modello e lo script utilizzato per automatizzare l’interrogazione tramite LM Studio.
 
 ---
 
