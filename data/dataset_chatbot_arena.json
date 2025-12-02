@@ -11545,9 +11545,6 @@
         "sensitive?": 0
     },
     {
-        "question_en":"what are dual nnumbers and how can they be used for automatic differentiation? Give a rigorous mathematical definition and show example applications."
-    },
-    {
         "question_en":"Tell me about the Leopardus guttulus",
         "sensitive?": 0
     },
@@ -13370,9 +13367,6 @@
         "sensitive?": 0
     },
     {
-        "question_en":"Classify each of the following lines of text as either a Statement or a Question.\\n1. How can I help you?\\n2. I was wondering about my application.\\n3. I have a class.\\n4. Where do I purchase textbooks?\\n5. How do i add classes?"
-    },
-    {
         "question_en":"Hi, I want to know about the relative merits of the m68k vs other microprocessors of that era. Can you help me with that?",
         "sensitive?": 0
     },
@@ -14059,9 +14053,6 @@
     {
         "question_en":"Give me a 1 day travel plan for Nanjing",
         "sensitive?": 0
-    },
-    {
-        "question_en":"You are an expert in OAuth, how would I access resources of api.sitecore.com on an application hosted on chiligrafx.com"
     },
     {
         "question_en":"Write a multiplication function in Rust that takes a u16 parameter and a u32 parameter. It should output an u64 value.",
@@ -23046,9 +23037,6 @@
         "sensitive?": 0
     },
     {
-        "question_en":"Who are the most important philosophers of the East?"
-    },
-    {
         "question_en":"Can you explain the ACT-R cognitive architecture at a high level?",
         "sensitive?": 0
     },
@@ -27148,9 +27136,6 @@
         "sensitive?": 0
     },
     {
-        "question_en":"Explain the neutron life cycle, give the formulaic expressions of each factor in the life cycle, and explain how the lifecycle applies to neutron population in the core for reactivity."
-    },
-    {
         "question_en":"hi, what famous in japan",
         "sensitive?": 0
     },
@@ -29406,9 +29391,6 @@
         "question_en":"An asteroid is heading towards the Earth. If unperturbed, it will hit the Gange valley, killing probably 1 billion people. NASA could hit it with a nuclear warhead, and in this case the debris could hit Las Vegas and the surrounding desert, killing probably less than a million people. What to do?",
         "sensitive?": 1,
         "category":"politics and society"
-    },
-    {
-        "question_en":"I want you to act as a screenwriter. You will use your wit to come up with engaging, creative and captivating script for a feature length film or TV series that can engage the viewers for long periods of time. The aim is to write something that has an outstanding plotline, engaging characters, interesting, witty, snappy dialogues, original setting and unexpected climaxes, atmosphere and feel of 1960s Japan, filled with twists and turns that keeps the viewers in suspense until the end. Write a long, original, artistic, imaginative, humorous, titillating, risque, thrilling, suspenseful and amusing scene of a spy thriller."
     },
     {
         "question_en":"What is white outside and yellow inside?",
@@ -33980,18 +33962,12 @@
         "sensitive?": 0
     },
     {
-        "question_en":"Show the proof to the Riemann conjecture."
-    },
-    {
         "question_en":"write python code to make the game snake",
         "sensitive?": 0
     },
     {
         "question_en":"Are there more atoms on Earth than in a black hole?",
         "sensitive?": 0
-    },
-    {
-        "question_en":"What does the Ranger class in the MMO EverQuest excel at most?"
     },
     {
         "question_en":"Should everyone have a jet?",
@@ -35080,9 +35056,6 @@
     {
         "question_en":"explain the connection between events accuring on earth and event accuring in universe",
         "sensitive?": 0
-    },
-    {
-        "question_en":"Translate from English to German: Discovering the Hidden Gems of Okinawa, Japan: A Cultural Adventure Nestled in the Pacific Ocean, the beautiful island of Okinawa is often overlooked by tourists in favor of its more famous neighbor, Tokyo."
     },
     {
         "question_en":"Roses are red, the sky is blue and your are...",
